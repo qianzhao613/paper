@@ -1,8 +1,9 @@
 # Title
-Regional clock
+Simulations of regional clock
 
 # Author
 Qian Zhao
+Dan Simpson
 
 # Introduction
 Epigentic clock is a predictive model.
