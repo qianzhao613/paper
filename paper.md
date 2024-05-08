@@ -1,5 +1,5 @@
 # Title
-Regional clock
+RRBS measurements of Regional clock
 
 # Author
 Qian Zhao
