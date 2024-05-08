@@ -24,3 +24,6 @@ The model is detailed in Horvith et al 2012.
 
 # Results
 DNA methylation can be used for the construction of aging predictor.
+
+# Figures
+Figures go in their own section in a draft paer.
