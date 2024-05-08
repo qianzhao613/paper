@@ -21,3 +21,6 @@ We simulate the evolution of DNA methylation as they are transfered from source 
 # Methodology
 We compared our measurements of DNA methylation-related aging with a model simulation.
 The model is detailed in Horvith et al 2012.
+
+# Results
+DNA methylation can be used for the construction of aging predictor.
