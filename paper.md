@@ -1,8 +1,9 @@
 # Title
-RRBS measurements of Regional clock
+RRBS measurements and simulations of regional clock
 
 # Author
 Qian Zhao
+Dan Simpson
 
 # Introduction
 Epigentic clock is a predictive model.
@@ -13,3 +14,6 @@ Tamir et al (2023) conducted an average methylation study,
 but the problem is still here.
 
 DNA methylation is quiet important.
+
+# Simulations
+We simulate the evolution of DNA methylation as they are transfered from source region.
