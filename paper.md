@@ -17,3 +17,7 @@ DNA methylation is quiet important.
 
 # Simulations
 We simulate the evolution of DNA methylation as they are transfered from source region.
+
+# Methodology
+We compared our measurements of DNA methylation-related aging with a model simulation.
+The model is detailed in Horvith et al 2012.
