@@ -2,8 +2,8 @@
 RRBS measurements and simulations of regional clock
 
 # Author
-Qian Zhao
 Dan Simpson
+Qian Zhao
 
 # Introduction
 Epigentic clock is a predictive model.
